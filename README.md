@@ -13,3 +13,8 @@
 <p align="center">Clone do Website spotify feito com <b>Bootstrap 4</p></p>
 
 ---
+<h4 align="center">
+
+ by Matheus Viana 👨‍💻
+
+</h4>
